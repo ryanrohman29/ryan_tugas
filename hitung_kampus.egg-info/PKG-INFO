@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: hitung_kampus
+Version: 0.1.0
+Summary: Pustaka sederhana untuk menghitung nilai mahasiswa
+Author-email: Nama Anda <email@kampus.ac.id>
+Requires-Python: >=3.8
